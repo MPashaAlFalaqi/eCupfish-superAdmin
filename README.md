@@ -71,7 +71,7 @@ Telah dibuat halaman login split-screen sesuai dengan desain screenshot mitra ya
 
 ```bash
 # Masuk ke folder project
-cd "C:\Users\pasha\.gemini\antigravity\scratch\ecupfish-superadmin"
+
 
 # Mode Development
 npm run dev
